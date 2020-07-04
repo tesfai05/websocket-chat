@@ -10,4 +10,10 @@ public class WebsocketApplication {
 		SpringApplication.run(WebsocketApplication.class, args);
 	}
 
+
+
+//	public static void main(String[] args) {
+//		SpringApplication.run(WebsocketApplication.class, args);
+//	}
+
 }
